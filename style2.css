@@ -1,0 +1,11 @@
+.c1
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(42,42,42);
+    background: radial-gradient(circle, rgba(42,42,42,1) 0%, rgba(0,0,0,1) 100%);
+    border: 10px rgb(94, 94, 94) double;
+    margin: 62px;
+    padding: 10px;
+}

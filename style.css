@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+}
+body
+{
+    background: rgb(0, 0, 0);
+    height: 100vh;
+    color: rgb(255, 255, 255);
+}
+.l1
+{
+    background: rgb(58,65,180);
+    background: linear-gradient(90deg, rgba(58,65,180,1) 0%, rgba(45,253,29,1) 50%, rgba(244,69,252,1) 100%);
+    border-radius: 30%;
+    position: fixed;
+    z-index: 3;
+}
+.ll1
+{
+    right: 20px;
+    bottom: 50px;
+    width: 250px;
+    height: 250px;
+}
+a
+{
+    width: 10px;
+    height: 10px;
+}
+.png_left
+{
+    position: absolute;
+    left: 10px;
+}
+.png_right
+{
+    position: absolute;
+    right: 10px;
+}
+.block
+{
+    height: 1000px;
+}
+.up1
+{
+    top: 2500px;
+}
+.up2
+{
+    top: 750px;
+}
+.up3
+{
+    top: 1450px;
+}
